@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/ltmoo2/cwdata/workflows/R-CMD-check/badge.svg)](https://github.com/ltmoo2/cwdata/actions)
 <!-- badges: end -->
 
 The goal of cwdata is to provide datasets and functions for use in the
