@@ -17,4 +17,5 @@ BugReports: https://github.com/ltmoo2/cwdata/issues
 Depends: 
     R (>= 2.10)
 Imports: 
-    tibble
+    tibble,
+    dplyr
